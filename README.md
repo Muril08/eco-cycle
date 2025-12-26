@@ -26,11 +26,14 @@ O EcoCycle propõe uma composteira automatizada que:
 - Dashboard Web
 - Vercel (deploy)
 
-## Equipe
-
-
+## Equipe  
+- **Líder de Projeto e Desenvolvedor** – Murilo Alves (*Muril08*)  
+- **Desenvolvedor ChatBot** – Antonio Mateus (*teuosx*)  
+- **Pesquisa e Análise de Requisitos** – Julio Cesar (*Muril08*)  
+- **Pesquisa e Análise de Requisitos** – Emilly Vitoria (*emillyfernb*)    
+  
 ## Minha Contribuição
-Atuei no desenvolvimento da lógica do sistema com Arduino,
+Atuei como líder do projeto e no desenvolvimento da lógica do sistema com Arduino,
 integração dos sensores e apoio na construção da proposta técnica do projeto,
 além da participação no desenvolvimento do dashboard para visualização dos dados.
 
