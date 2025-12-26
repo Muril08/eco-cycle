@@ -38,7 +38,7 @@ integração dos sensores e apoio na construção da proposta técnica do projet
 além da participação no desenvolvimento do dashboard para visualização dos dados.
 
 ## Modelo do Projeto
-![Modelo no Tinkercad](modelotk.png)
+<img src="imagens/modelotk.png" alt="Modelo da composteira automatizada no Tinkercad" width="600"/>
 
 ## Demonstração Online
 - https://eco-cycle-live-xclx.vercel.app/
