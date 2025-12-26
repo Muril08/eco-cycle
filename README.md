@@ -29,7 +29,7 @@ O EcoCycle propõe uma composteira automatizada que:
 ## Equipe  
 - **Líder de Projeto e Desenvolvedor** – Murilo Alves (*Muril08*)  
 - **Desenvolvedor ChatBot** – Antonio Mateus (*teuosx*)  
-- **Pesquisa e Análise de Requisitos** – Julio Cesar (*Muril08*)  
+- **Pesquisa e Análise de Requisitos** – Julio Cesar
 - **Pesquisa e Análise de Requisitos** – Emilly Vitoria (*emillyfernb*)    
   
 ## Minha Contribuição
